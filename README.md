@@ -11,7 +11,7 @@ The following table shows the best overall results obtained with the two methods
 | Country | N Cities | Best Lenght Fast Solution (km) | Best Lenght EA Solution (km) |
 | ------- | -------- | ------------------------------ | ---------------------------- |
 | Vanuatu | 8        | 1_475.53                       | 1_345.54                     |
-| Italy   | 46       | 4_436.03                       | 4_360.55                     |
-| Russia  | 167      | 40_051.59                      | 37_252.01                    |
-| US      | 326      | 46_244.33                      | 45_031.12                    |
-| China   | 726      | 62_116.04                      | 59_886.85                    |
+| Italy   | 46       | 4_436.03                       | 4_181.18                     |
+| Russia  | 167      | 40_051.59                      | 37_344.65                    |
+| US      | 326      | 46_244.33                      | 43_156.82                    |
+| China   | 726      | 62_116.04                      | 60_041.85                    |
